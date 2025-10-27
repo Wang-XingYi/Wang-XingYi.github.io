@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "王星怡 / Personal Website"
+title                    : "王星怡 / 个人主页"
 title_separator          : "-"
 name                     : &name "王星怡"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
