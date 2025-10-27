@@ -23,7 +23,7 @@ repository               : "academicpages/Wang-XingYi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WangXingYi.jpg"
+  avatar           : "WangXingYi.png"
   name             : "Wang XingYi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
